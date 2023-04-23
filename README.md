@@ -1,6 +1,6 @@
 # figma-to-design
 # figma-practice
 <p>
-  <img src="Portfolio page.png">
+  <img src="./img/Portfolio page.png">
   
 </p>
